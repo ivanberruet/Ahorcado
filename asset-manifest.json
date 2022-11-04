@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ahorcado/static/css/main.e1141a9d.css",
+    "main.js": "/Ahorcado/static/js/main.abb649f7.js",
+    "static/media/hang-man-logo.png": "/Ahorcado/static/media/hang-man-logo.e3d7a230121066a9335d.png",
+    "index.html": "/Ahorcado/index.html",
+    "main.e1141a9d.css.map": "/Ahorcado/static/css/main.e1141a9d.css.map",
+    "main.abb649f7.js.map": "/Ahorcado/static/js/main.abb649f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1141a9d.css",
+    "static/js/main.abb649f7.js"
+  ]
+}
